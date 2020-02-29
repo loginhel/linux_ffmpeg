@@ -1,0 +1,2 @@
+# 基于docker的linux开发环境
+基于ffmpeg的docker镜像文件修改，添加了开发linux常用的功能
