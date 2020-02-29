@@ -126,7 +126,6 @@ RUN     buildDeps="autoconf \
                    perl \
                    pkgconf \
                    protoc \
-                   pstree \
                    psmisc \
                    rsyslog \
                    ragel \
