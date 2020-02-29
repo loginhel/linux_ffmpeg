@@ -78,7 +78,7 @@ RUN     buildDeps="autoconf \
                    ctags \
                    diffutils \
                    expat \
-                   expat-devel \
+                   expat-dev \
                    file \
                    g++ \
                    gawk \
